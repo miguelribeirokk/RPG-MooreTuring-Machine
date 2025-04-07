@@ -63,7 +63,7 @@ Obs: é necessário ter as fontes e imagens corretamente instaladas. Baixe a fon
 ### 👥 Autores:
 
 - Miguel Antonio Ribeiro e Silva
--João Victor Graciano Belfort de Andrade
+- João Victor Graciano Belfort de Andrade
 - Mateus Henrique Vieira Figueiredo
 - Alan Gabriel Martins Silva
 - Matheus Nascimento Peixoto
