@@ -1,6 +1,6 @@
 # ⚔️ RPG Lógico: Simulação de Batalhas com Máquinas de Moore e de Turing
 
-Simulação interativa de batalhas inspirada em jogos clássicos, com base nos conceitos de **Máquinas de Moore** e **Máquinas de Turing**, desenvolvida como trabalho final da disciplina **Fundamentos e Teoria da Computação - CCF131 (UFV Florestal)**.
+Simulação interativa de batalhas inspirada em jogos clássicos, com base nos conceitos de **Máquinas de Moore** e **Máquinas de Turing**, desenvolvida como trabalho final da disciplina **Fundamentos e Teoria da Computação**.
 
 > 📚 Documento técnico: [`TP-Final-FTC-Doc.pdf`](TP-Final-FTC-Doc.pdf)
 
