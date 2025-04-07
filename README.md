@@ -1,17 +1,62 @@
-## The Legend of Moore & Morturing Komat
-Este projeto é uma aplicação desenvolvida para a disciplina de Fundamentos da Teoria da Computação. Consiste em uma simulação básica em 2D de uma batalha em RPG, utilizando conceitos de máquinas de Turing e máquinas de Moore.
+# ⚔️ RPG Lógico: Simulação de Batalhas com Máquinas de Moore e de Turing
 
-### Descrição do Projeto
-O projeto é dividido em dois jogos principais:
+Simulação interativa de batalhas inspirada em jogos clássicos, com base nos conceitos de **Máquinas de Moore** e **Máquinas de Turing**, desenvolvida como trabalho final da disciplina **Fundamentos e Teoria da Computação - CCF131 (UFV Florestal)**.
 
-- The Legend of Moore: Inspirado em The Legend of Zelda: Ocarina of Time, este jogo utiliza máquinas de Moore para simular batalhas em RPG.
+> 📚 Documento técnico: [`TP-Final-FTC-Doc.pdf`](TP-Final-FTC-Doc.pdf)
 
-- Morturing Komat: Inspirado em Mortal Kombat, este jogo utiliza máquinas de Turing para criar uma experiência de batalha única.
+---
 
-## Estrutura e Modelos
-O projeto utiliza a arquitetura MVC (Model-View-Controller) para uma gestão eficiente e proporcionar um aprendizado intuitivo dos fundamentos de tecnologia da computação.
+## 🎮 Sobre o Projeto
 
-## Funcionalidades
- - Simulação de Batalhas em 2D: Experimente batalhas em RPG com base nos conceitos de máquinas de Turing e máquinas de Moore.
- - Dois Jogos Distintos: Desfrute de duas experiências de jogo diferentes, inspiradas em títulos clássicos.
- - Arquitetura MVC: Aprenda sobre a estrutura e os modelos MVC através de uma implementação prática.
+Este projeto oferece uma interface gráfica onde dois jogadores duelam utilizando **máquinas lógicas** geradas aleatoriamente.
+
+- 💡 **Moore**: saída depende apenas do estado.
+- 💡 **Turing**: transdutora, utiliza uma fita modificável.
+- ⚔️ Ataque, defesa, cura — com animações e lógica de estado!
+- 🎵 Música ambiente inspirada em **Zelda** e **Mortal Kombat**.
+
+---
+
+## 🧠 Tecnologias
+
+- `Python 3.x`
+- `Tkinter` (GUI)
+- `Pillow` (imagens)
+- `pygame` (áudio)
+- Enumerações (`enum`)
+- Arquivos `.txt` contendo a lógica das máquinas
+
+---
+
+
+---
+
+## 🚀 Como Rodar o Projeto
+
+1. **Clone o repositório:**
+```bash
+git clone https://github.com/seu-usuario/seu-repo.git
+cd seu-repo
+```
+2. Crie o ambiente e instale os requisitos:
+```
+pip install pillow
+pip install tkinter
+pip install pygame
+```
+3. Execute o programa
+```
+cd src
+python main.py
+```
+Obs: é necessário ter as fontes e imagens corretamente instaladas. Baixe a fonte "GodOfWar" em dafont.com se quiser o visual completo.
+
+## 🎮 Mecânica
+
+- A cada rodada, os duelistas executam a lógica de suas máquinas e realizam ações.
+- Você verá o personagem atacando, defendendo, curando ou sendo derrotado.
+- Cada duelista possui estados, transições e ações personalizadas.
+
+⚠️ Projeto acadêmico com fins didáticos — inspirado em jogos clássicos e teorias formais da computação
+
+
