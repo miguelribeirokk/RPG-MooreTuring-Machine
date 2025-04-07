@@ -3,6 +3,7 @@
 Simulação interativa de batalhas inspirada em jogos clássicos, com base nos conceitos de **Máquinas de Moore** e **Máquinas de Turing**, desenvolvida como trabalho final da disciplina **Fundamentos e Teoria da Computação**.
 
 > 📚 Documento técnico: [`TP-Final-FTC-Doc.pdf`](TP-Final-FTC-Doc.pdf)
+> 
 > ⚠️ Projeto acadêmico com fins didáticos — inspirado em jogos clássicos e teorias formais da computação
 
 ---
