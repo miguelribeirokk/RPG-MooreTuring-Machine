@@ -3,6 +3,7 @@
 Simulação interativa de batalhas inspirada em jogos clássicos, com base nos conceitos de **Máquinas de Moore** e **Máquinas de Turing**, desenvolvida como trabalho final da disciplina **Fundamentos e Teoria da Computação**.
 
 > 📚 Documento técnico: [`TP-Final-FTC-Doc.pdf`](TP-Final-FTC-Doc.pdf)
+> ⚠️ Projeto acadêmico com fins didáticos — inspirado em jogos clássicos e teorias formais da computação
 
 ---
 
@@ -57,6 +58,15 @@ Obs: é necessário ter as fontes e imagens corretamente instaladas. Baixe a fon
 - Você verá o personagem atacando, defendendo, curando ou sendo derrotado.
 - Cada duelista possui estados, transições e ações personalizadas.
 
-⚠️ Projeto acadêmico com fins didáticos — inspirado em jogos clássicos e teorias formais da computação
+## 🧾 Créditos
+### 👥 Autores:
 
+- Miguel Antonio Ribeiro e Silva
+-João Victor Graciano Belfort de Andrade
+- Mateus Henrique Vieira Figueiredo
+- Alan Gabriel Martins Silva
+- Matheus Nascimento Peixoto
+
+### 🏫 Universidade Federal de Viçosa – Campus Florestal
+### 📚 Disciplina: Fundamentos e Teoria da Computação – CCF 131
 
