@@ -8,7 +8,7 @@ Simulação interativa de batalhas inspirada em jogos clássicos, com base nos c
 
 ## 🎮 Sobre o Projeto
 
-Este projeto oferece uma interface gráfica onde dois jogadores duelam utilizando **máquinas lógicas** geradas aleatoriamente.
+Este projeto oferece uma interface gráfica onde dois jogadores duelam utilizando **máquinas lógicas**.
 
 - 💡 **Moore**: saída depende apenas do estado.
 - 💡 **Turing**: transdutora, utiliza uma fita modificável.
